@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>佛跟</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-10-28T17:58:41.229Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>佛跟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://example.com/2025/10/29/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2025/10/29/%E6%B5%8B%E8%AF%95/</id>
+    <published>2025-10-28T16:47:40.000Z</published>
+    <updated>2025-10-28T17:58:41.229Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试一下"><a href="#测试一下" class="headerlink" title="测试一下"></a>测试一下</h1><hr><h2 id="测试文章：欢迎来到我的博客"><a href="#测试文章：欢迎来到我的博客" class="headerlink" title="测试文章：欢迎来到我的博客"></a>测试文章：欢迎来到我的博客</h2><p>大家好！这是我在 Hexo 上创建的第一个博客文章。作为一个测试，我想展示一下基本的 Markdown 格式，看看它在我的博客中的呈现效果。</p><h3 id="标题和段落"><a href="#标题和段落" class="headerlink" title="标题和段落"></a>标题和段落</h3><p>这里是一个标题，下面是一个段落。你可以写下任何你想说的话，表达你的想法或者分享经验。</p><p>例如，以下是一个关于我的 Hexo 博客设置的小节：</p><h3 id="Hexo-博客设置"><a href="#Hexo-博客设置" class="headerlink" title="Hexo 博客设置"></a>Hexo 博客设置</h3><p>Hexo 是一个非常轻量级的静态博客框架，非常适合用来搭建个人博客。以下是我用 Hexo 搭建博客的一些步骤：</p><ol><li>安装 Node.js 和 Hexo</li><li>创建 Hexo 项目并初始化</li><li>配置博客主题</li><li>编写和发布文章</li><li>部署到 GitHub Pages</li></ol><h3 id="图片和链接"><a href="#图片和链接" class="headerlink" title="图片和链接"></a>图片和链接</h3><p>你可以轻松地插入图片，例如：</p><p><img src="https://hexo.io/assets/img/logo.svg" alt="Hexo Logo"></p><p>同时，你也可以插入链接：</p><p><a href="https://hexo.io/">Hexo 官方网站</a></p><h3 id="代码片段"><a href="#代码片段" class="headerlink" title="代码片段"></a>代码片段</h3><p>如果你需要插入代码片段，可以使用下面的方式：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 安装 Hexo</span></span><br><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// JavaScript 示例代码</span></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">greet</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;Hello, Hexo!&#x27;</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="title function_">greet</span>();</span><br></pre></td></tr></table></figure><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><p>你可以创建无序列表或有序列表，分别如下：</p><ul><li>项目一</li><li>项目二</li><li>项目三</li></ul><p>或者有序列表：</p><ol><li>第一步</li><li>第二步</li><li>第三步</li></ol><hr><p>希望这篇文章能够正常显示在我的博客上。如果你看到它，说明我的博客已经成功搭建好了！如果有任何问题或建议，欢迎在评论区留言。</p><hr><p>你可以将这篇文章保存到你的 Hexo 文章目录中（<code>source/_posts</code> 文件夹），然后使用 <code>hexo generate</code> 和 <code>hexo deploy</code> 命令来生成并部署这篇文章。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试一下&quot;&gt;&lt;a href=&quot;#测试一下&quot; class=&quot;headerlink&quot; title=&quot;测试一下&quot;&gt;&lt;/a&gt;测试一下&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;测试文章：欢迎来到我的博客&quot;&gt;&lt;a href=&quot;#测试文章：欢迎来到我的博客&quot; class=&quot;heade</summary>
+      
+    
+    
+    
+    
+    <category term="FOO" scheme="http://example.com/tags/FOO/"/>
+    
+    <category term="BAR" scheme="http://example.com/tags/BAR/"/>
+    
+    <category term="BAZ" scheme="http://example.com/tags/BAZ/"/>
+    
+  </entry>
+  
+</feed>
