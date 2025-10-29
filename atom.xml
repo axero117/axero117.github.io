@@ -3,11 +3,11 @@
   <title>佛跟</title>
   
   
-  <link href="https://axero117.github.io/project/atom.xml" rel="self"/>
+  <link href="https://axero117.github.io/atom.xml" rel="self"/>
   
-  <link href="https://axero117.github.io/project/"/>
+  <link href="https://axero117.github.io/"/>
   <updated>2025-10-28T18:36:16.565Z</updated>
-  <id>https://axero117.github.io/project/</id>
+  <id>https://axero117.github.io/</id>
   
   <author>
     <name>佛跟</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="https://axero117.github.io/project/2025/10/29/%E6%B5%8B%E8%AF%95/"/>
-    <id>https://axero117.github.io/project/2025/10/29/%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://axero117.github.io/2025/10/29/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://axero117.github.io/2025/10/29/%E6%B5%8B%E8%AF%95/</id>
     <published>2025-10-28T16:47:40.000Z</published>
     <updated>2025-10-28T18:36:16.565Z</updated>
     
@@ -35,11 +35,11 @@
     
     
     
-    <category term="FOO" scheme="https://axero117.github.io/project/tags/FOO/"/>
+    <category term="FOO" scheme="https://axero117.github.io/tags/FOO/"/>
     
-    <category term="BAR" scheme="https://axero117.github.io/project/tags/BAR/"/>
+    <category term="BAR" scheme="https://axero117.github.io/tags/BAR/"/>
     
-    <category term="BAZ" scheme="https://axero117.github.io/project/tags/BAZ/"/>
+    <category term="BAZ" scheme="https://axero117.github.io/tags/BAZ/"/>
     
   </entry>
   
